@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "new_iss_flyby",
+  "version": "1.0.0",
+  "description": "",
+  "main": "iss.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-xray-sdk": "^3.3.7",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "node-fetch": "^3.2.10"
+  }
+}
